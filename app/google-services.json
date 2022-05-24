@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095205094982",
+    "project_id": "androidapp-c2fe4",
+    "storage_bucket": "androidapp-c2fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095205094982:android:b48b017f412b31ffc62c47",
+        "android_client_info": {
+          "package_name": "com.kelani.androidstudio_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095205094982-n6qo7adpd95clrcm9m107cnc1klamo7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADFJyTNBHLc7mJiLcBRhbIK9hDtumDsMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095205094982-n6qo7adpd95clrcm9m107cnc1klamo7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
